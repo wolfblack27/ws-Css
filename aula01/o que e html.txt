@@ -1,0 +1,3 @@
+HTML é uma linguagem de marcação (estruturação do site ), 
+onde o browser interpreta e estrutura conforme as tags HTML.
+<></> : é a marcação de tag, de um elemento HTML

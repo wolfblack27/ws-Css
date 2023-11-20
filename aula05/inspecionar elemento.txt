@@ -1,0 +1,2 @@
+Para inspecionar os elementos clicamos com o botao direito ... inspecionar site
+ou (CRTL+SHIFT+ I).

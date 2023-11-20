@@ -1,0 +1,1 @@
+São folhas de estilo de cascata. São usadas para estilizar os elementos HTML
