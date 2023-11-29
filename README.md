@@ -51,3 +51,13 @@ Aula08
     Podemos tambem usar um elemento chamado Caption
     para dar um titulo a nossa tabela
 
+
+Aula09
+- Conceito de lista em HTML
+    Usando a tag <ol> e a tag <ul>
+        
+        <ol>:   Ordena a lista com o atributo type
+                podemos ordenar por ("A","I")
+        
+        <li>:   Ordena usando marcadores
+                com o atributo "style: list-style type: circle"
