@@ -4,8 +4,41 @@
 <head>
     <title>Listas Ordenadas</title>
 </head>
+<style> 
+
+    body{
+        background-color: whitesmoke;
+
+    }
+
+
+    ol{
+      width: 30%;
+      height: 70%;
+      position: relative;
+      animation-name: example;
+      animation-duration: 2s;
+      animation-delay: 0s;
+      background-color: #9FE2BF;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      
+    }
+    
+
+   
+
+    @keyframes example {
+      0%   { left:0px; top:0px; visibility: hidden;}
+      25% { left:200px; top:0px; visibility: hidden; }
+      75% { left:0px; top:0px; visibility: visible;}
+      100%{visibility: visible;}
+      }
+    </style>
+
+
 
 <body>
+    
     <section>
         <h1>Lista Ordenadas</h1>
         <ol>
@@ -14,7 +47,7 @@
             <li>Batata</li>
             <li>Alface</li>
         </ol>
-        <ol type="A">
+        <ol type="A" >
             <li>BMW</li>
             <li>Fiat</li>
             <li>Audi</li>
