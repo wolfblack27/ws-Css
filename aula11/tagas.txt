@@ -1,0 +1,5 @@
+As metatags são componentes que possibilitam que:
+charset (utf-8): caracteres organizados e com acentuação corretos
+description: uma descrição do site ou serviço
+keywords: palavras-chave que identificam o site
+viewport: possibilita que a tela se ajuste ao dispositivo cliente. 

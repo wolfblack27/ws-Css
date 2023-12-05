@@ -61,3 +61,25 @@ Aula09
         
         <li>:   Ordena usando marcadores
                 com o atributo "style: list-style type: circle"
+
+
+Aula10
+- Conceitos sobre formularios
+    Componentes:
+                input
+                label
+                button
+                fieldset
+                legend
+                radio
+                check
+
+Aula11
+- Estudando as Metatags
+    charset 
+    keywords
+    viewport
+    description
+
+Aula12
+- Html semantico: como estruturar uma pagina html seguindo padrões
