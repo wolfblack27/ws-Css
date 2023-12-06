@@ -1,0 +1,12 @@
+#conteudo{
+
+    height: 250px;
+    border-width: 2px;
+    border-color: aqua;
+    border-style: dotted;
+    background-color:#6959CD;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+   
+}

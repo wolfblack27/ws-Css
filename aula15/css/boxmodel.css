@@ -1,0 +1,19 @@
+
+body{
+margin: 0;
+
+}
+.boxmodel{
+
+    width: 200px;
+    height: auto;
+    background-color: red;
+    margin: 0;
+    
+}
+p{
+    color: black;
+    margin: 0;
+    
+    
+}

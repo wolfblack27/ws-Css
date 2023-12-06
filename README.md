@@ -83,3 +83,12 @@ Aula11
 
 Aula12
 - Html semantico: como estruturar uma pagina html seguindo padrões
+
+Aula13
+- Adicionando Css de forma: internal, external, inline
+- Comentarios em Css
+
+Aula14
+- Classes e IDs
+    Classes: que pertence ao mesmo conceito, exemplo lista de itens
+    IDs: algo único, algo que identifica
