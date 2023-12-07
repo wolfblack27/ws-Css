@@ -9,11 +9,31 @@ margin: 0;
     height: auto;
     background-color: red;
     margin: 0;
-    
+    padding: 8px;
+    border: 3px solid blue;
+    margin: 50px ;
+    display: inline-block;
+   
 }
+
+
+.boxmodel.direita{
+
+    border: 5px solid black;
+    color: aliceblue;
+}
+
+
 p{
     color: black;
     margin: 0;
+    padding: 2px;
     
-    
+}
+
+div span{
+
+    color: blue;
+    padding: 5px;
+    margin: 0;
 }

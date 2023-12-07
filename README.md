@@ -92,3 +92,27 @@ Aula14
 - Classes e IDs
     Classes: que pertence ao mesmo conceito, exemplo lista de itens
     IDs: algo único, algo que identifica
+
+Aula15
+- Box Model:
+            padding
+            border
+            margin
+- Display:
+            none
+            block
+            inline
+            inline-block
+
+
+Aula16
+- Positions:
+
+            static
+            relative
+            absolute
+            fixed
+            sticky
+
+
+
