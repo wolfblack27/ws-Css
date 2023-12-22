@@ -115,4 +115,17 @@ Aula16
             sticky
 
 
+Aula17 
+- Float: O elemento flutua perdendo as correspondecia da pagina
+        Rigth: o elemento fica fluatuando a direita
+        Letf : elemento flutua a esquerda
+        overflow(auto): propriedade que devolve a correspondencia, tem que ser aplicada no elemento PAI do elemento que flutua
+        clear(both): propriedade que limpa o comportamento de elementos flutuantes adjacentes
 
+Aula18
+- Medidas:
+        "%": é usado a referencia do pai para determinar 
+             a porcentagem do filho
+
+        "em"
+        "rem"
