@@ -59,6 +59,11 @@ body {
 
 
 }
+h2{
+
+    text-decoration: underline;
+
+}
 
 .frase-container {
 
@@ -90,6 +95,8 @@ body {
 .curiosidades-container li {
 
     padding: 10px;
+    list-style: square;
+
 
 }
 /* Volta ao topo*/
