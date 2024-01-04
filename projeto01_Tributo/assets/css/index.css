@@ -1,25 +1,120 @@
-body{
-   
-    padding: 0;
-    margin: 0;
-}
-img{
-
-    margin: 0;
-    padding: 0;
-}
-div{
-
-    margin: 0;
-    padding: 0;
-}
-figure{
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #DDD;
     margin: 0;
     padding: 0;
 }
 
-.container{
+body {
+
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+
+    max-width: 1200px;
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 
 
+.destaque {
+    font-weight: bold;
+}
+
+/*cabecalho*/
+.cabecalho {
+
+    text-align: center;
+}
+
+.titulo-principal {
+    font-size: 40px;
+
+}
+
+.paragrafo-principal {
+    font-style: italic;
+}
+
+
+/*Corpo do Site*/
+.img-destaque {
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+
+.biografia-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #DDD;
+    border-bottom: 1px dashed #DDD;
+
+
+}
+
+.frase-container {
+
+    background-color: #DDD;
+    opacity: 0.8;
+    padding: 30px;
+    box-shadow: 10px 10px 5px gray;
+}
+
+.frase-container blockquote {
+
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.frase-container p {
+    font-style: italic;
+}
+
+
+.curiosidades-container {
+
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #DDD;
+    border-bottom: 1px dashed #DDD;
+}
+
+.curiosidades-container li {
+
+    padding: 10px;
+
+}
+/* Volta ao topo*/
+.volta-top {
+
+
+    background-color: darkcyan;
+    width: 100px;
+    font-weight: bold;
+    text-align: center;
+
+
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+
+.volta-top p {
+
+    margin: auto;
+    cursor: pointer;
+    padding: 20px;
+}
+
+.volta-top :hover {
+    background-color: aquamarine;
 
 }
