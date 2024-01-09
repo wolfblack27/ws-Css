@@ -1,0 +1,38 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+
+    background-color: #ddd;
+   padding: 0;
+   margin: 0;
+}
+
+.container{
+
+    width: 1200px;
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.header{
+    
+    font-size: large;
+    padding: 20px;
+    height: 80px;
+    background-color: aquamarine;
+}
+
+.galeria {
+    text-align: center;
+    margin-top: -30px;
+}
+.galeria figure img{
+margin-left: 50px;
+
+
+}
